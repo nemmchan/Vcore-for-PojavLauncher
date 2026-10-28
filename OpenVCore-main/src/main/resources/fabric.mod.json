@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vcore",
+  "version": "${version}",
+  "icon": "icon.png",
+  "name": "OpenVCore",
+  "description": "Free & open-source VCore",
+  "authors": [
+    {
+      "name": "FTL2nd"
+    }
+  ],
+  "contact": {
+    "homepage": "https://github.com/ftl2ndofficial/OpenVCore",
+    "sources": "https://github.com/ftl2ndofficial/OpenVCore"
+  },
+  "accessWidener": "Vcore.accesswidener",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "vcore.Vcore"
+    ]
+  },
+  "mixins": [
+    "Vcore.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.11",
+    "java": ">=21"
+  },
+  "suggests": {
+    "sodium": "*",
+    "exordium": "*",
+    "starlight": "*",
+    "ias": "*",
+    "viafabricplus": "*"
+  }
+}
