@@ -20,7 +20,7 @@ File này được leak từ bên thứ ba. TÔI KHÔNG CHỊU TRÁCH NHIỆM N�
 Nếu bạn thích vọc vạch hoặc muốn tự chỉnh sửa client, bạn có thể tìm source code tại đây:
 
 https://github.com/ftl2ndofficial/VCore-0.8
-
+https://github.com/ftl2ndofficial/OpenVcore
 ⸻
 
 🇺🇸 English (ENG)
