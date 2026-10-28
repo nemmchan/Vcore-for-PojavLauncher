@@ -1,50 +1,47 @@
-# OpenVCore (1.21.11)
+Vcore-0.8-for-PojavLauncher
 
-Free VCore for anyone who thinks this thing is overpriced.  
-*Bản port miễn phí cho những ai thấy client này thực sự bị hét giá quá cao.*
+🇻🇳 Tiếng Việt (VIE)
 
----
+Vcore (ThunderHack Fork) by Vu_2007
 
-## English
+Đây là phiên bản Vcore đã được chỉnh sửa, loại bỏ Discord RPC để người dùng mobile có thể sử dụng.
 
-### Build
-Requires **JDK 21+**.
+Credits
 
-- Windows:
-  ```cmd
-  .\gradlew.bat build -x test
-  ```
-- Linux / macOS:
-  ```bash
-  ./gradlew build -x test
-  ```
+* VCore 0.8 leak By: https://discord.gg/hitech
+* VCore Release leak by Glux
+* Remap & Decompile By: FTL2nd (https://ftl2nd.com)
+* Port Client 1.21.1 to 1.21.11 by FTL2nd
 
-Output jar: `build/libs/OpenVCore-1.0.jar`
+⚠️ Lưu ý
 
-### Usage
-- Put the jar into `.minecraft/mods/` (requires Fabric Loader `>=0.16.0` on Minecraft 1.21.11).
-- **ClickGUI**: `RIGHT SHIFT`
-- **Commands**: Prefix `@` in chat (e.g. `@help`, `@bind`)
+File này được leak từ bên thứ ba. TÔI KHÔNG CHỊU TRÁCH NHIỆM NẾU BẠN GẶP PHẢI MALWARE, RAT HOẶC CÁC VẤN ĐỀ BẢO MẬT KHÁC khi sử dụng file này.
 
----
+Nếu bạn thích vọc vạch hoặc muốn tự chỉnh sửa client, bạn có thể tìm source code tại đây:
 
-## Tiếng Việt
+https://github.com/ftl2ndofficial/VCore-0.8
+https://github.com/ftl2ndoffcial/OpenVCore
 
-### Cách build
-Yêu cầu **Java 21 trở lên**.
+⸻
 
-- Windows:
-  ```cmd
-  .\gradlew.bat build -x test
-  ```
-- Linux / macOS:
-  ```bash
-  ./gradlew build -x test
-  ```
+🇺🇸 English (ENG)
 
-File sau khi build: `build/libs/OpenVCore-1.0.jar`
+Vcore (ThunderHack Fork) by Vu_2007
 
-### Cách dùng
-- Thả file jar vào thư mục `.minecraft/mods/` (cần Fabric Loader `>=0.16.0` trên Minecraft 1.21.11).
-- **Mở ClickGUI**: Nhấn phím `RIGHT SHIFT` (Shift phải).
-- **Lệnh**: Dùng tiền tố `@` trong khung chat (ví dụ: `@help`, `@bind`).
+This is a modified version of Vcore with Discord RPC removed to make it compatible with mobile users.
+
+Credits
+
+* VCore 0.8 leak by: https://discord.gg/hitech
+* VCore Release leak by Glux
+* Remapped & Decompiled by: FTL2nd (https://ftl2nd.com)
+* Port Client 1.21.1 to 1.21.11 by FTL2nd
+
+⚠️ Disclaimer
+
+This file was leaked from a third party. I AM NOT RESPONSIBLE FOR ANY MALWARE, RATs, OR OTHER SECURITY ISSUES that may result from using this file.
+
+If you’re interested in exploring or modifying the client yourself, you can find the source code here:
+
+https://github.com/ftl2ndofficial/VCore-0.8
+https://github.com/ftl2ndoffcial/OpenVCore
