@@ -19,7 +19,7 @@ File này được leak từ bên thứ ba. TÔI KHÔNG CHỊU TRÁCH NHIỆM N�
 Nếu bạn thích tìm hiểu mã nguồn hoặc muốn tự chỉnh sửa client, bạn có thể tham khảo các repository sau:
 
 * https://github.com/ftl2ndofficial/VCore-0.8
-* https://github.com/ftl2ndoffcial/OpenVcore
+* https://github.com/ftl2ndofficial/OpenVCore
 
 ⸻
 
@@ -43,4 +43,4 @@ This file was leaked from a third party. I AM NOT RESPONSIBLE FOR ANY MALWARE, R
 If you’re interested in exploring the source code or modifying the client yourself, you can check out the following repositories:
 
 * https://github.com/ftl2ndofficial/VCore-0.8
-* https://github.com/ftl2ndoffcial/OpenVcore
+* https://github.com/ftl2ndofficial/OpenVcore
