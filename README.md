@@ -1,4 +1,4 @@
-# Vcore-0.8-for-PojavLauncher
+# Vcore-for-PojavLauncher
 
 🇻🇳 Tiếng Việt
 
@@ -10,6 +10,8 @@ Credits
 
 * Leak By: https://discord.gg/hitech
 * Remap & Decompile By: FTL2nd (https://ftl2nd.com)
+* Vcore Release leak by Glux
+* Port client by FTL 2nd
 
 ⚠️ Lưu ý
 
@@ -31,6 +33,8 @@ Credits
 
 * Leaked by: https://discord.gg/hitech
 * Remapped & Decompiled by: FTL2nd (https://ftl2nd.com)
+* Vcore Release leak by Glux
+* Port client by FTL 2nd
 
 ⚠️ Disclaimer
 
@@ -39,3 +43,4 @@ This file was leaked from a third party. I AM NOT RESPONSIBLE FOR ANY MALWARE, R
 If you’re interested in exploring or modifying the client yourself, you can find the source code here:
 
 https://github.com/ftl2ndofficial/VCore-0.8
+https://github.com/ftl2ndofficial/OpenVcore
